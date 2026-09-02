@@ -1,5 +1,12 @@
+Comidas favoritas
 Cake
 Chocolate
 Mousse
 Ice cream
 Açai
+
+Filmes favoritos:
+Avengers
+Matrix
+Iron Man
+Spider Man
